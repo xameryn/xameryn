@@ -4,8 +4,8 @@
 ### Contributions
 
 - Check out [Rasa Novum](https://github.com/RasaNovum), our Minecraft modding team.
-  - [Via Romana](https://github.com/RasaNovum/Via_Romana): allows fast travel only after a road connecting the destinations has been made, incentivizing players to build and see the world.
-  - [Timber Frames](https://github.com/RasaNovum/Timber_Frames): allows players to create medieval and fantasy timber frame walls in an aesthetic and dynamic manner
+  - [Via Romana](https://github.com/RasaNovum/Via_Romana) - An infrastructure based fast-travel mod.
+  - [Timber Frames](https://github.com/RasaNovum/Timber_Frames) - Adds aesthetic and dynamic timber frame blocks.
 - Also take a look at [CatJam](https://github.com/xameryn/CatJam), our general purpose Discord bot with global file archiving and retrieval
 
 ```math

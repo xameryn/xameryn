@@ -7,6 +7,3 @@
   - [Via Romana](https://github.com/RasaNovum/Via_Romana) - An infrastructure based fast-travel mod.
   - [Timber Frames](https://github.com/RasaNovum/Timber_Frames) - Adds aesthetic and dynamic timber frame blocks.
 - Also take a look at [CatJam](https://github.com/xameryn/CatJam), our general purpose Discord bot with global file archiving and retrieval
-
-```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.1; background: url('https://github.com/xameryn/xameryn/blob/main/assets/bg3.jpg?raw=true') no-repeat center center;]{x0000}$}

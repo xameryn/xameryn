@@ -1,5 +1,5 @@
 ### About Me
-- I'm a computer science student with interests in programming, tinkering, and constructing mechanisms.
+- Interested in programming, tinkering, and constructing mechanisms.
 
 ### Contributions
 
